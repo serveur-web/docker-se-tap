@@ -3,7 +3,7 @@
 FROM debian:8
 MAINTAINER Rural Telecom <support@rural-telecom.fr>
 
-ENV VERSION v4.15-9546-beta-2015.04.05
+ENV VERSION v4.19-9578-beta-2015.09.15
 WORKDIR /usr/local/vpnserver
 
 
